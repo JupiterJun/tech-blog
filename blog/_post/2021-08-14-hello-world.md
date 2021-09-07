@@ -7,7 +7,7 @@ location: 保定
 
 新站第一篇博客~
 
-本站是我的技术文章站，多发表奇技术类文章。
+本站是我的技术文章站，多发表技术类文章。
 
 https://github.com/JupiterJun/tech-blog
 
