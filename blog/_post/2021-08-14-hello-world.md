@@ -7,8 +7,10 @@ location: 保定
 
 新站第一篇博客~
 
-部署于Github Pages
+本站是我的技术文章站，多发表奇技术类文章。
 
-https://github.com/JupiterJun/JupiterJun.github.io
+https://github.com/JupiterJun/tech-blog
 
 目前云函数JsDelivr转发这块还有点小问题，字体和svg加载不出来
+
+*注：2021年 9 月 7 日完成技术博客和生活博客分离*

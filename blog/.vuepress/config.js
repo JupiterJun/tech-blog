@@ -1,20 +1,20 @@
 module.exports = {
-    title: '青章浚的小站', // Title for the site. This will be displayed in the navbar.
+    title: '青章浚的技术笔记', // Title for the site. This will be displayed in the navbar.
     theme: '@vuepress/theme-blog',
     themeConfig: {
         dateFormat: 'YYYY-MM-DD',
         smoothScroll: true,
         sitemap:{
-            hostname: 'https://imjz.net'
+            hostname: 'https://jupiterjun.net'
         },
         feed:{
-            canonical_base:'https://imjz.net'
+            canonical_base:'https://jupiterjun.net'
         },
         footer: {
             contact: [
                 {
                     type: 'github',
-                    link: 'https://github.com/JupiterJun',
+                    link: 'https://github.com/JupiterJun/tech-blog',
                 },
                 {
                     type: 'mail',
@@ -44,12 +44,12 @@ module.exports = {
                 id: 'post',
                 dirname: '_post',
                 path: '/',
-                title: '随笔',
+                title: '文章',
             }
         ],
         nav: [
             {
-                text: '随笔',
+                text: '文章',
                 link: '/',
             },
             {
